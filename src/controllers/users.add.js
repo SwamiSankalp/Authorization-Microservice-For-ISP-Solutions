@@ -1,6 +1,8 @@
 /*
  *
+ *
  * ADDING USER TO THE DATABASE CONTROLLER
+ *
  *
  */
 
